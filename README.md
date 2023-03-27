@@ -13,7 +13,7 @@
 
 [p2]: https://www.youtube.com/watch?v=rHZRrDu3A2U&lc=UgxfrxX8aK7gnCzkend4AaABAg
 -->
-## ChatGPT "DAN" (and other "Jailbreaks") PROMPTS
+## ChatGPT Jailbreaks List
 
 Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
 
